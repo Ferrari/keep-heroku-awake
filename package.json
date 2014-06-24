@@ -1,0 +1,17 @@
+{
+  "name": "keep-heroku-awake",
+  "version": "0.0.0",
+  "description": "a simple cronjob to keep heroku awake",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "heroku",
+    "nodejs"
+  ],
+  "author": "Ferrari Lee <shiyung@gmail.com>",
+  "license": "MIT"
+}

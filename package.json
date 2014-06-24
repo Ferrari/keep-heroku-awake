@@ -1,6 +1,6 @@
 {
   "name": "keep-heroku-awake",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a simple cronjob to keep heroku awake",
   "main": "index.js",
   "dependencies": {
